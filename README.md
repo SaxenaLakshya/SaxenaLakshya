@@ -13,5 +13,5 @@ PYTHON PROGRAMMING LANGUAGE, Computer-related topics and Science Fictions
 #### How to reach me 📫
 saxena.lakshya0106@gmail.com
 ### Connect with me:
-LinkedIn: https://www.linkedin.com/in/lakshya-saxena-704607260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BC2Ri9z0OT5%2BMVWkULAbKgA%3D%3D
-LeetCode: https://leetcode.com/Saxena_Lakshya
+###### LinkedIn: https://www.linkedin.com/in/lakshya-saxena-704607260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BC2Ri9z0OT5%2BMVWkULAbKgA%3D%3D
+###### LeetCode: https://leetcode.com/Saxena_Lakshya
