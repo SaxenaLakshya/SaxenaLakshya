@@ -10,5 +10,5 @@ To work as an Intern after the completion of 1st year
 All my projects are available on https://github.com/SaxenaLakshya
 #### Ask me About 💬
 PYTHON PROGRAMMING LANGUAGE, Computer-related topics and Science Fictions
-#### How to reach me
+#### How to reach me 📫
 saxena.lakshya0106@gmail.com
