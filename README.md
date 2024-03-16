@@ -3,7 +3,7 @@ I am a 1st year BTech CSE student, specializing in Artificial Intelligence and M
 #### Currently 🔭
 Pursuing my Bachelor in Technology in Computer Science Engineering with a Specialization in Artificial Intelligence and Machine Learning from SRM Institute of Science and Technology, NCR Campus (Ghaziabad)
 #### Learning 🌱
-C, C++, JAVA, Data Structures and Algorithms, and Advance PYTHON
+I am currently learning Machine Learning, Data Structures and Algorithms and Web Development. I also aspire to work as an intern.
 #### Willing 🤝
 To work as an Intern after the completion of 1st year
 #### Projects 💫
