@@ -1,9 +1,9 @@
 # Hi👋, I am Lakshya Saxena
-I am a 1st year BTech CSE student, specializing in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology, NCR Campus. My ultimate aspiration is to work in an Artificial Intelligence-related field. I have experience in Python programming language, as well as C/C++, during school and college. Additionally, I have tackled LeetCode problems to develop my coding skills.
+I am a B.Tech CSE student, specializing in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology, NCR Campus. My ultimate aspiration is to work in an Artificial Intelligence-related field. I have experience in Python and C/C++ programming languages from school and college. I have also developed my coding skills by tackling LeetCode problems.
 #### Currently 🔭
 Pursuing my Bachelor in Technology in Computer Science Engineering with a Specialization in Artificial Intelligence and Machine Learning from SRM Institute of Science and Technology, NCR Campus (Ghaziabad)
 #### Learning 🌱
-I am currently learning Machine Learning, Data Structures and Algorithms, and Web Development and am also interested in Backend Development.
+I am currently studying Machine Learning, Data Structures, Algorithms, and Backend Development for website building to enhance Hackathon Projects.
 #### Willing 🤝
 I am interested in pursuing an internship opportunity as a means to gain valuable experience and further develop my skills in the field.
 #### Projects 💫
