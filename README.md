@@ -3,9 +3,9 @@ I am a B.Tech CSE student, specializing in Artificial Intelligence and Machine L
 #### Currently 🔭
 Pursuing my Bachelor in Technology in Computer Science Engineering with a Specialization in Artificial Intelligence and Machine Learning from SRM Institute of Science and Technology, NCR Campus (Ghaziabad)
 #### Learning 🌱
-I am currently studying Machine Learning, Data Structures, Algorithms, and Backend Development for website building to enhance Hackathon Projects.
+I am now deepening my understanding of Machine Learning, Data Structures, Algorithms, and Backend Development for website building to enhance my Hackathon projects. Additionally, I have enhanced my knowledge through courses on Coursera and Udemy, focusing on various aspects of AI and Software Development.
 #### Willing 🤝
-I am interested in pursuing an internship opportunity as a means to gain valuable experience and further develop my skills in the field.
+I am interested in an internship opportunity to gain valuable experience and further develop my skills.
 #### Projects 💫
 All my projects are available on https://github.com/SaxenaLakshya
 #### Ask me About 💬
