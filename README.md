@@ -49,7 +49,7 @@ All my projects are available on [GitHub](https://github.com/SaxenaLakshya)
 </p>
 
 ## Ask me About 💬
-PYTHON PROGRAMMING LANGUAGE, C and C++ PROGRAMMING LANGUAGE, Computer-related topics and Science Fiction
+Hackathons and Problem-Solving Experiences, AI-Generated Art and Creativity, Gaming and Technology Trends
 
 ## How to reach me 📫
 saxena.lakshya0106@gmail.com
