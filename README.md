@@ -1,22 +1,39 @@
-# Hi👋, I am Lakshya Saxena
-I am a B.Tech CSE student, specializing in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology, NCR Campus. My ultimate aspiration is to work in an Artificial Intelligence-related field. I have experience in Python and C/C++ programming languages from school and college. I have also developed my coding skills by tackling LeetCode problems.
+# **Hi 👋, I'm Lakshya Saxena**  
 
-## Currently 🔭
-Pursuing my Bachelor in Technology in Computer Science Engineering with a Specialization in Artificial Intelligence and Machine Learning from SRM Institute of Science and Technology, NCR Campus (Ghaziabad)
+🎓 **B.Tech CSE | AI & ML Enthusiast | Problem Solver**  
 
-## Learning 🌱
-I am now deepening my understanding of Machine Learning, Data Structures, Algorithms, and Backend Development for website building to enhance my Hackathon projects. Additionally, I have enhanced my knowledge through courses on Coursera and Udemy, focusing on various aspects of AI and Software Development.
+I am a **Computer Science Engineering** student specializing in **Artificial Intelligence & Machine Learning** at **SRM Institute of Science and Technology, NCR Campus**. My ultimate aspiration is to build impactful solutions in the AI domain. I have experience in **Python, C, and C++**, and I actively solve **LeetCode problems** to enhance my problem-solving skills.  
 
-## Willing 🤝
-I am interested in an internship opportunity to gain valuable experience and further develop my skills.
+---
 
-## Projects 💫
-All my projects are available on [GitHub](https://github.com/SaxenaLakshya)
+## **🚀 Currently Exploring**  
+📚 **Pursuing:** B.Tech CSE (AI & ML) at SRMIST NCR Campus (Ghaziabad)  
+🔍 **Diving Deep Into:** Machine Learning, Data Structures & Algorithms, and Backend Development  
+💻 **Building Projects:** Exploring real-world applications of AI in web-based platforms  
 
-## Skills 🛠️
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Programming Languages -->
+---
+
+## **🌱 What I'm Learning**  
+I continuously expand my expertise through online courses on **Coursera, Udemy**, and self-learning. My focus is on mastering:  
+✅ **AI & Deep Learning** (TensorFlow, Keras, Scikit-Learn)  
+✅ **Full-Stack Development** (Node.js, Express, MySQL)  
+✅ **Competitive Coding** (LeetCode, Codeforces)  
+
+---
+
+## **💡 Seeking Opportunities**  
+I'm actively looking for **internships** where I can apply my skills, gain hands-on experience, and contribute to innovative projects.  
+
+---
+
+## **🔥 Projects**  
+👨‍💻 You can explore all my projects on **[GitHub](https://github.com/SaxenaLakshya)**  
+
+---
+
+## **🛠️ Tech Stack**  
+
+### **Programming Languages**  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -36,8 +53,7 @@ All my projects are available on [GitHub](https://github.com/SaxenaLakshya)
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 
-
-  <!-- Frontend Development -->
+### **Frontend Development**  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -48,8 +64,7 @@ All my projects are available on [GitHub](https://github.com/SaxenaLakshya)
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
 
-
-<!-- Backend Development -->
+### **Backend Development**  
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </a>
@@ -57,8 +72,7 @@ All my projects are available on [GitHub](https://github.com/SaxenaLakshya)
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </a>
 
-
-  <!-- AI/ML -->
+### **AI/ML Technologies**  
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
@@ -72,12 +86,12 @@ All my projects are available on [GitHub](https://github.com/SaxenaLakshya)
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
 
-  <!-- Database -->
+### **Databases**  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 
-  <!-- Other -->
+### **Other Tools & Platforms**  
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
@@ -87,26 +101,36 @@ All my projects are available on [GitHub](https://github.com/SaxenaLakshya)
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
 </a>
-
 </p>
 
+---
 
+## **💬 Ask Me About**
+💡 Hackathons & Problem-Solving  
+🎨 AI-Generated Art & Creativity  
+🎮 Gaming & Latest Technology Trends  
 
-## Ask me About 💬
-Hackathons and Problem-Solving Experiences, AI-Generated Art and Creativity, Gaming and Technology Trends
+---
 
-## How to reach me 📫
-saxena.lakshya0106@gmail.com
+## **📫 How to Reach Me?**
+📩 **Email:** saxena.lakshya0106@gmail.com  
 
-## Connect with me:
+---
+
+## **🔗 Connect with Me**
 <p align="left">
-  <a href="https://github.com/SaxenaLakshya" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <a href="https://github.com/SaxenaLakshya" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a> 
-  <a href="https://www.linkedin.com/in/lakshya-saxena-704607260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BC2Ri9z0OT5%2BMVWkULAbKgA%3D%3D" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/lakshya-saxena-704607260" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a> 
-  <a href="https://leetcode.com/Saxena_Lakshya" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/>
+  <a href="https://leetcode.com/Saxena_Lakshya" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+### **🚀 Keep Learning & Keep Building!**
+✨ Open to collaborations & discussions on AI and software development!  
