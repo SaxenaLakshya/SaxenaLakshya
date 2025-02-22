@@ -96,7 +96,7 @@ All my projects are available on [GitHub](https://github.com/SaxenaLakshya)
 Hackathons and Problem-Solving Experiences, AI-Generated Art and Creativity, Gaming and Technology Trends
 
 ## How to reach me 📫
-  <a href="mailto:saxena.lakshya0106@gmail.com" target="_blank" rel="noreferrer">
+  <a href="saxena.lakshya0106@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="40" height="40"/>
   </a>
 
