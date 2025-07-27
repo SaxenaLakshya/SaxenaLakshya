@@ -100,7 +100,7 @@ Check out some of my favorite projects 👇
     <img src="https://skillicons.dev/icons?i=github" alt="github"/>
   </a>
   <a href="https://www.instagram.com/mist.muse05" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="github"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/>
   </a>
 </p>
 
