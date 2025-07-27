@@ -31,51 +31,78 @@ Check out some of my favorite projects 👇
 | [**Fruits Classification using Transfer Learning**](https://github.com/SaxenaLakshya/Fruits-Classification-using-Transfer-Learning) | Python, TensorFlow, Streamlit, NumPy, Matplotlib | A deep learning project using transfer learning (VGG16) to classify fruit images. Features an interactive Streamlit UI for predictions and visualization. |
 
 ## 🛠️ Skills & Technologies
-### 💻 Languages:
+### 💻 Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js" />
   </a>
 </p>
 
-### 🤖 AI/ML:
+### 🎨 Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,figma" />
   </a>
 </p>
 
-### 🌐 Web Dev:
+### ⚙️ Backend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,express,postgres" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,supabase,flask" />
   </a>
 </p>
 
-### 🧰 Tools:
+### 🤖 AI & ML Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,linux," />
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,azure" />
   </a>
 </p>
 
-## Ask me About 💬
-Hackathons and Problem-Solving Experiences, AI-Generated Art and Creativity, Gaming and Technology Trends
+### 💾 Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+  </a>
+</p>
 
-## How to reach me 📫
+### 🖥️ Operating Systems
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux" />
+  </a>
+</p>
+
+### 🔨 Developer Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  </a>
+</p>
+
+## 🏆 Achievements
+- 📈 Consistent skill growth, committed to daily learning and improvement in development and problem-solving
+- 📜 Microsoft Certified: AI-900, demonstrated foundational knowledge in AI concepts and Microsoft Azure AI services
+- 🤝 Active project Collaboration, regularly collaborate on college projects with peers interested in software development, contributing to both frontend and backend tasks
+
+## 💬 Let's Connect
+<p align="left">
   <a href="mailto:saxena.lakshya0106@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
   </a>
-
-## Connect with me:
-<p align="left">
-  <a href="https://github.com/SaxenaLakshya" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a> 
-  <a href="https://www.linkedin.com/in/lakshya-saxena-704607260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BC2Ri9z0OT5%2BMVWkULAbKgA%3D%3D" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-  </a> 
+  <a href="https://www.linkedin.com/in/lakshya-saxena-704607260" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
+  </a>
   <a href="https://leetcode.com/Saxena_Lakshya" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/>
+    <img height="50px" weight="50px" src="https://img.icons8.com/?size=96&id=9L16NypUzu38&format=png" alt="leetcode"/>
+  </a>
+  <a href="https://github.com/SaxenaLakshya" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="github"/>
+  </a>
+  <a href="https://www.instagram.com/mist.muse05" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="github"/>
   </a>
 </p>
+
+📌 _“I'm passionate about building real-world AI solutions, collaborating with teams, and always open to learning something new.”_  
+💫 If you like my work, consider giving a ⭐ to my repositories!
