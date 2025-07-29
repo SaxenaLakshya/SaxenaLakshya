@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Exploring+Artificial+Intelligence+🧠;Full-Stack+Web+Development+🚀;Lifelong+LeetCoder+👨‍💻;Hackathon+Enthusiast+💡" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gifv" />
+  <i>"A peaceful rainy afternoon, windows open to the summer breeze, gentle wind chimes in the background, a warm cup by the desk, and code flowing on the glowing screen — this is where learning feels like home."</i>
+</p>
+
 ## 🔭 Currently Working On
 - 🎓 Pursuing B.Tech in Computer Science and Engineering with specialization in **Artificial Intelligence & Machine Learning** at **SRM Institute of Science and Technology**, NCR Campus, Ghaziabad.
 - 🧩 Actively solving DSA problems on LeetCode.
