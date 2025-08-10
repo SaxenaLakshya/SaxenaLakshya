@@ -46,7 +46,7 @@ Check out some of my favorite projects 👇
 ### 🎨 Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,figma" />
   </a>
 </p>
 
