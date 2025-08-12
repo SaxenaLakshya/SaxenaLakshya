@@ -67,7 +67,7 @@ Check out some of my favorite projects 👇
 ### 💾 Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
   </a>
 </p>
 
