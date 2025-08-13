@@ -32,7 +32,7 @@
 Check out some of my favorite projects 👇
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [**Overthinkers Haven**](https://github.com/SaxenaLakshya/Overthinkers-Haven) | Node.js, Express.js, Supabase, PostgreSQL, Tailwind CSS, EJS, Axios, Bcrypt, JokeAPI | A hackathon project focused on promoting mental wellness through technology. It features user authentication, joke integration from JokeAPI, and calming design to support users' emotional expression. |
+| [**Overthinkers Haven**](https://github.com/SaxenaLakshya/Overthinkers-Haven) | Node.js, Express.js, Supabase, PostgreSQL, Tailwind CSS, EJS, Axios, Bcrypt, JokeAPI | A project focused on promoting mental wellness through technology. It features user authentication, joke integration from JokeAPI, and calming design to support users' emotional expression. |
 | [**Fruits Classification using Transfer Learning**](https://github.com/SaxenaLakshya/Fruits-Classification-using-Transfer-Learning) | Python, TensorFlow, Streamlit, NumPy, Matplotlib | A deep learning project using transfer learning (VGG16) to classify fruit images. Features an interactive Streamlit UI for predictions and visualization. |
 
 ## 🛠️ Skills & Technologies
