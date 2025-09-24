@@ -53,7 +53,7 @@ Check out some of my favorite projects 👇
 ### ⚙️ Backend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,supabase,flask" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,supabase,flask,fastapi" />
   </a>
 </p>
 
