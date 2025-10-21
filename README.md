@@ -74,7 +74,7 @@ Check out some of my favorite projects 👇
 ### 🖥️ Operating Systems
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
   </a>
 </p>
 
