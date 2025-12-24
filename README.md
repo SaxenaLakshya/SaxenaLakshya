@@ -32,7 +32,7 @@
 ### 💻 Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,ts" />
   </a>
 </p>
 
