@@ -74,7 +74,7 @@
 ### 🔨 Developer Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,notion" />
   </a>
 </p>
 
