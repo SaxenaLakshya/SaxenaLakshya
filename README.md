@@ -46,7 +46,7 @@
 ### ⚙️ Backend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,supabase,flask,fastapi" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,supabase,flask,fastapi,redis" />
   </a>
 </p>
 
